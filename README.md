@@ -19,7 +19,6 @@ Project:  SPEECH-RECOGNITION-SYSTEM
 Objective
 
 
-
 To develop a speech recognition system that accurately converts spoken language into text, enabling efficient interaction with devices and applications through voice commands, transcription, and language understanding.
 
 
