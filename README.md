@@ -46,7 +46,10 @@ Technology Used
 OUTPUT
 
 
+![Screenshot 2025-01-05 211059](https://github.com/user-attachments/assets/0edfefc2-a131-40be-a879-1472457e6f02)
 
+
+![Screenshot 2025-01-05 211122](https://github.com/user-attachments/assets/3218d7d4-30a3-4f82-8b18-c805eacd5099)
 
 
 
